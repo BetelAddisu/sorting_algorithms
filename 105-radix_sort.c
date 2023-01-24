@@ -1,5 +1,5 @@
 #include "sort.h"
-#include "sort.h"
+
 
 /**
 * findmax - Finds the maximum value in an array
